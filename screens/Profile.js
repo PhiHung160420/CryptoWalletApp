@@ -145,7 +145,7 @@ const Profile = () => {
           {/* SECURITY */}
           <SectionTitle title="SECURITY" />
           <Setting
-            title="Language"
+            title="Face ID"
             value={faceID}
             type="switch"
             onPress={value => setFaceID(value)}
