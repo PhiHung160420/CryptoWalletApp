@@ -23,14 +23,13 @@ The challenge (for learning purpose) was to develop Crypto Wallet App using Reac
 </p>
 
 ## Some Dependencies:
-- REST API 
 - Axios
 - Redux
 - Navigation
 - Animated-Chart
 - React-native-chart-kit
 
-### Installing
+## Installing
 
 #### 1. Get API at https://www.coingecko.com/api/documentations/v3
 
